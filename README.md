@@ -21,4 +21,4 @@ Este projeto é um simulador de geração e validação de CNPJs alfanuméricos 
 
 ```bash
 git clone https://github.com/SabrinaPrestes/cnpj-alfanumerico.git
-cd cnpj-alfa-numerico
+cd cnpj-alfanumerico
